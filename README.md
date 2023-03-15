@@ -26,9 +26,7 @@ I'm a passionate and self-taught Full Stack Web Developer from India. I speciali
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" width="40" height="40"/>
 
 </p>
 
