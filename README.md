@@ -31,9 +31,9 @@ I'm a passionate and self-taught Full Stack Web Developer from India. I speciali
 </p>
 
 ## 📊 My GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maverick2903&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=maverick2903&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick2903&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maverick2903&theme=radical)
 
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=maverick2903&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
