@@ -4,7 +4,7 @@ I'm a passionate and self-taught Full Stack Web Developer from India. I speciali
 
 ## 🔭 I’m currently working on ...
 - Building full-stack web applications using MERN stack.
-- Using scikit-learn and Tensorflow to buld NLP models.
+- Using scikit-learn and Tensorflow to build NLP models.
 
 ## 🌱 I’m currently learning ...
 - Three.js
