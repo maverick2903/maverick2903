@@ -1,6 +1,8 @@
 # Hi there, I'm [Varun Viswanath](https://github.com/maverick2903) 👋
 
-I'm a passionate and self-taught Full Stack Web Developer from India. I specialize in building dynamic and responsive websites using modern web technologies such as HTML, CSS, JavaScript, and React.
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&background=952FFF00&width=435&lines=A+Passionate+CS+Student;)](https://git.io/typing-svg) !-->
+
+I'm a passionate and self-taught Full Stack Web Developer and ML Developer. I specialize in building dynamic and responsive websites using modern web technologies such as HTML, CSS, JavaScript, and React. Additionally, I have experience in building machine learning models using techniques such as classification, regression, and utilizing neural networks.
 
 ## 🔭 I’m currently working on ...
 - Building full-stack web applications using MERN stack.
@@ -30,13 +32,24 @@ I'm a passionate and self-taught Full Stack Web Developer from India. I speciali
 
 </p>
 
-## 📊 My GitHub Stats:
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=maverick2903&show_icons=true&theme=radical)
+## Profile Views:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maverick2903&label=Profile%20views&color=0e75b6&style=flat" alt="maverick2903" /> </p>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maverick2903&theme=radical)
+## 📊 My GitHub Stats:
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=maverick2903&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maverick2903&theme=tokyonight)
+
+<h1 align="center">  Contributions ✨</h1>
+<p align="center">
+ <a href="https://git.io/streak-stats" align="middle">
+    <img src="https://streak-stats.demolab.com?user=maverick2903&theme=android-dark&border_radius=5.9&date_format=j%20M%5B%20Y%5D">
+  </a>
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maverick2903&bg_color=000000&color=fd86f5&line=d12ec6&point=d7b2b2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=maverick2903&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maverick2903&theme=onedark)](https://github.com/maverick2903/github-profile-trophy)
 
 ## 👯 I’m looking to collaborate on ...
 - Projects related to web development and machine learning.
