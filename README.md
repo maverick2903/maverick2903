@@ -4,6 +4,12 @@
 
 I'm a passionate and self-taught Full Stack Web Developer and ML Developer. I specialize in building dynamic and responsive websites using modern web technologies such as HTML, CSS, JavaScript, and React. Additionally, I have experience in building machine learning models using techniques such as classification, regression, and utilizing neural networks.
 
+## 🥇 Achievements:
+- 2nd Runner Up at DATAHACK 1.0
+- Top 12 at Codeshastra 9.0
+- Top 12 at Sigfest Datathon by ACM Manipal Jaipur
+- 2nd place in TFUG x Kaggle Campaign organized by GDSC MPSTME
+
 ## 🔭 I’m currently working on ...
 - Building full-stack web applications using MERN stack.
 - Using scikit-learn and Tensorflow to build NLP models.
