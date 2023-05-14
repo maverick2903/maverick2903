@@ -10,14 +10,6 @@ I'm a passionate and self-taught Full Stack Web Developer and ML Developer. I sp
 - Top 12 at Sigfest Datathon by ACM Manipal Jaipur
 - 2nd place in TFUG x Kaggle Campaign organized by GDSC MPSTME
 
-## 🔭 I’m currently working on ...
-- Building full-stack web applications using MERN stack.
-- Using scikit-learn and Tensorflow to build NLP models.
-
-## 🌱 I’m currently learning ...
-- Three.js
-- Natural Language Processing
-
 ## 💻 Tech Stack:
 
 <p align="center">
@@ -37,6 +29,14 @@ I'm a passionate and self-taught Full Stack Web Developer and ML Developer. I sp
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
 
 </p>
+
+<!-- ## 🔭 I’m currently working on ...
+- Building full-stack web applications using MERN stack.
+- Using scikit-learn and Tensorflow to build NLP models. -->
+
+## 🌱 I’m currently learning ...
+- Next.js
+- RNN
 
 ## Profile Views:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maverick2903&label=Profile%20views&color=0e75b6&style=flat" alt="maverick2903" /> </p>
