@@ -34,9 +34,9 @@ I'm a passionate and self-taught Full Stack Web Developer and ML Developer. I sp
 - Building full-stack web applications using MERN stack.
 - Using scikit-learn and Tensorflow to build NLP models. -->
 
-## 🌱 I’m currently learning ...
+<!-- ## 🌱 I’m currently learning ...
 - Next.js
-- RNN
+- RNN -->
 
 ## Profile Views:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maverick2903&label=Profile%20views&color=0e75b6&style=flat" alt="maverick2903" /> </p>
