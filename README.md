@@ -52,7 +52,7 @@ I'm a passionate and self-taught Full Stack Web Developer and ML Developer. I sp
     <img src="https://streak-stats.demolab.com?user=maverick2903&theme=android-dark&border_radius=5.9&date_format=j%20M%5B%20Y%5D">
   </a>
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maverick2903&bg_color=000000&color=fd86f5&line=d12ec6&point=d7b2b2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maverick2903&bg_color=000000&color=fd86f5&line=d12ec6&point=d7b2b2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=maverick2903&theme=onedark)](https://github.com/maverick2903/github-profile-trophy)
