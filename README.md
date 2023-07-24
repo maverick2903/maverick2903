@@ -5,6 +5,7 @@
 I'm a passionate and self-taught Full Stack Web Developer and ML Developer. I specialize in building dynamic and responsive websites using modern web technologies such as HTML, CSS, JavaScript, and React. Additionally, I have experience in building machine learning models using techniques such as classification, regression, and utilizing neural networks.
 
 ## 🥇 Achievements:
+- Bajaj HackRx 4.0 Winner
 - 2nd Runner Up at DATAHACK 1.0
 - Top 12 at Codeshastra 9.0
 - Top 12 at Sigfest Datathon by ACM Manipal Jaipur
