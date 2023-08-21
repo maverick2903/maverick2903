@@ -53,9 +53,9 @@ I'm a passionate and self-taught Full Stack Web Developer and ML Developer. I sp
 - Email: [varunvis2903@gmail.com](mailto:varunvis2903@gmail.com)
 - LinkedIn: [Varun Viswanath](https://www.linkedin.com/in/varun-viswanath-10a3b0222/)
 
-## 🌟 Some of my notable projects:
+<!--## 🌟 Some of my notable projects:
 - [Hotel Booking Website](https://github.com/maverick2903/Unicode_Task1)
-- [Job Connection Website](https://github.com/maverick2903/TechTitans_WebDevelopment_Rookies)
+- [Job Connection Website](https://github.com/maverick2903/TechTitans_WebDevelopment_Rookies)--!>
 
 
 
