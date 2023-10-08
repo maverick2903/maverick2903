@@ -6,6 +6,7 @@ I'm a passionate and self-taught Full Stack Web Developer and ML Developer. I sp
 
 ## 🥇 Achievements:
 - Bajaj HackRx 4.0 Winner
+- Winner at SFIT HackX
 - 2nd Runner Up at DATAHACK 1.0
 - Top 12 at Codeshastra 9.0
 - Top 12 at Sigfest Datathon by ACM Manipal Jaipur
