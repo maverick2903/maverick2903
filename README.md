@@ -2,14 +2,14 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&background=952FFF00&width=435&lines=A+Passionate+CS+Student;)](https://git.io/typing-svg) !-->
 
-I'm a passionate and self-taught Full Stack Web Developer and ML Developer. I specialize in building dynamic and responsive websites using modern web technologies such as HTML, CSS, JavaScript, and React. Additionally, I have experience in building machine learning models using techniques such as classification, regression, and utilizing neural networks.
+I'm a passionate and self-taught Full Stack Web Developer and ML Developer. I specialize in building dynamic and responsive websites using the MERN stack. Additionally, I have experience in creating NLP based Machine Learning projects.
 
 ## 🥇 Achievements:
+- SIH 2023 Winner
 - Bajaj HackRx 4.0 Winner
 - Winner at SFIT HackX
 - 2nd Runner Up at DATAHACK 1.0
 - Top 12 at Codeshastra 9.0
-- Top 12 at Sigfest Datathon by ACM Manipal Jaipur
 - 2nd place in TFUG x Kaggle Campaign organized by GDSC MPSTME
 
 ## 💻 Tech Stack:
