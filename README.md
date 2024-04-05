@@ -7,10 +7,11 @@ I'm a passionate and self-taught Full Stack Web Developer and ML Developer. I sp
 ## 🥇 Achievements:
 - SIH 2023 Winner
 - Bajaj HackRx 4.0 Winner
+- Machine Learning Head @ Synapse
 - Winner at SFIT HackX
 - 2nd Runner Up at DATAHACK 1.0
 - Top 12 at Codeshastra 9.0
-- 2nd place in TFUG x Kaggle Campaign organized by GDSC MPSTME
+- Top 80 Unstoppable E-School Leaders 2024 (Unstop)
 
 ## 💻 Tech Stack:
 
